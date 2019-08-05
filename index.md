@@ -1,6 +1,3 @@
-</br>
-</br>
-</br>
 Home of a few drawings, art, and experiments.
 
 You can find
