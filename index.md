@@ -11,6 +11,6 @@ You can find
 
 -------
 Let us love one another, as we do the <a href="https://350.org/science/">earth</a>.
-Let us <a href="https://globalclimatestrike.net/">rebuild</a> from our mistakes.
-🐝🌏🕊️
+<br>Let us <a href="https://globalclimatestrike.net/">rebuild</a> from our mistakes.
+<br>🐝🌏🕊️
 
