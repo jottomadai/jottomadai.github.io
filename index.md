@@ -3,6 +3,7 @@
 Home of a few drawings, art, and experiments.
 
 You can find
+<br> -Majination: An Anki MSM Companion Flashcard Resource <a href="https://gdoc.pub/doc/e/2PACX-1vTDm_ZtDWwCccAEKa3z8wD-Ztz38lu4fw0ze4k_o7Hr2UuHiO58tb7TdehoiaXVRWHp5gLZyv4evrvj">here</a> - Use the power of computers to simply your studying of the human muscles
 <br> -Study Buddies. Free creature printouts to stay with you while you're studying. Downloads and care guide coming soon. <a href="https://forms.gle/bA27hf1xugAdUEus8">Contact me</a> for any questions and/or requests. <a href="https://forms.gle/8caabiy5caqUdKBe7">Applications are open</a> for interested colourists. 
 
 {% include instagram.html id="B38ooRQlwtv" %}
