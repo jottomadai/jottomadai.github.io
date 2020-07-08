@@ -3,7 +3,7 @@
 Home of a few drawings, art, and experiments.
 
 <br> *NEW* -The Watermelon Lover's Quaranzine. A small self-published mini-magazine featuring a two page colouring calendar as well as art, stories, and much more from featured artists. You can get your own copy at <a href="http://watermelon.jottomadai.com">watermelon.jottomadai.com</a>!
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdcFXyF8Y_bXi8gQuaPT6bW6AFk87yIP9agLOYg9b_jUC8Ayg/viewform"><img src="https://lh6.googleusercontent.com/FtOQIC_BtT8OV_7vGyFzBrjj3nyQoY5hQURgaBYEFdsEF6V56YjyHale_1XES6XMXDw2e_4lcNPCzSDzPbnoFxtorxUU1o5LOYGnJsJnPn_aqhZyTrems9z3JUFJ=w3024" title="Zine Pages in Progress" width="200"/></a>
+<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSdcFXyF8Y_bXi8gQuaPT6bW6AFk87yIP9agLOYg9b_jUC8Ayg/viewform"><img src="https://lh6.googleusercontent.com/FtOQIC_BtT8OV_7vGyFzBrjj3nyQoY5hQURgaBYEFdsEF6V56YjyHale_1XES6XMXDw2e_4lcNPCzSDzPbnoFxtorxUU1o5LOYGnJsJnPn_aqhZyTrems9z3JUFJ=w3024" title="Zine Pages in Progress" width="400"/></a>
 
 <br>
 <br> -Majination: An Anki MSM Companion Flashcard Resource <a href="https://gdoc.pub/doc/e/2PACX-1vTDm_ZtDWwCccAEKa3z8wD-Ztz38lu4fw0ze4k_o7Hr2UuHiO58tb7TdehoiaXVRWHp5gLZyv4evrvj">here</a> - Use the power of computers to simply your studying of muscles. Compiled specifically with RMT students in mind.
