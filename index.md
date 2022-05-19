@@ -1,4 +1,4 @@
-Home of a few drawings, art, and experiments.
+Home of a few drawings, art, and experiments by <a href="https://www.linkedin.com/in/jonathanl00/">Jonathan Lovely</a>.
 
 <br> *NEW* -The Watermelon Lover's Quaranzine. A small self-published mini-magazine featuring a two page colouring calendar as well as art, stories, and much more from featured artists. You can get your own copy at <a href="http://watermelon.jottomadai.com">watermelon.jottomadai.com</a>!
 <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSdcFXyF8Y_bXi8gQuaPT6bW6AFk87yIP9agLOYg9b_jUC8Ayg/viewform"><img src="https://lh6.googleusercontent.com/FtOQIC_BtT8OV_7vGyFzBrjj3nyQoY5hQURgaBYEFdsEF6V56YjyHale_1XES6XMXDw2e_4lcNPCzSDzPbnoFxtorxUU1o5LOYGnJsJnPn_aqhZyTrems9z3JUFJ=w3024" title="Zine Pages in Progress" width="400"/></a>
